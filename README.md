@@ -12,8 +12,8 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
   - 1x USB-C
   - 2x Thunderbolt 4 ports (Intel JHL8540 Maple Ridge)
   - 2x m.2 Slots
-- RAM: 32GB G.Skill Trident Z 3600Mhz CL18
-- AMD 6600 
+- RAM: 64GB Corsair Vengence 3200MHz
+- AMD RX 6600 
 - Broadcom BCM94360NG for macOS Compatibilty. Works out of the box. The BCM94360NG fits into the original WiFi-card housing and sits under the IO-shield. Original antennas fit.
 
 # What is working:
