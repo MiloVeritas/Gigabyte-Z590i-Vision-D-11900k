@@ -5,7 +5,7 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
 
 # Hardware used in this build:
 
-- CPU: Intel i9-11500F
+- CPU: Intel i9-11400F
 - Board: Gigabyte Z590i Vision D:
   - Audio: Realtek ALC4080
   - 1x 2.5GBase-T (Intel I225-V)
